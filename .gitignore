@@ -50,3 +50,6 @@ imgui.ini
 
 # debug information files
 *.dwo
+
+measurements/runs/
+analysis/output/
